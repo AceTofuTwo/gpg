@@ -207,7 +207,7 @@ The relationship between a rock's bulk dielectric permittivity, porosity and wat
 where
 
 - :math:`0 \leq \phi \leq 1` is the porosity
-- :math:`0 \leq S_w \leq 1` is the factional volume of the pore space saturated by water.
+- :math:`0 \leq S_w \leq 1` is the fractional volume of the pore space saturated by water.
 - :math:`\varepsilon_m` is the dielectric permittivity of rock forming minerals.
 - :math:`\varepsilon_a` is the dielectric permittivity of air (equal to free-space).
 - :math:`\varepsilon_w` is the dielectric permittivity of water.
