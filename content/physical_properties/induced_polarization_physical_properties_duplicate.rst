@@ -448,7 +448,7 @@ The reduction of mobility is most obvious at frequencies slower than the diffusi
 The induced polarization within a rock depends on having a mechanism for accumulating ionic charges.
 It also depends on the salinity of the pore water; i.e. the concentration of ions within the pore water.
 As the pore-water salinity increases, so does the capacity of the rock to support a build-up of ionic charges.
-This results in an increases chargeability for the rock.
+This results in an increase in chargeability for the rock.
 
 
 **Tortuosity:**
